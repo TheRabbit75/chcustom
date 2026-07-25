@@ -756,27 +756,27 @@ span:not(.spinner-item) {
 
 /*custom mentioned colour*/
 html.theme-dark .mentioned__5126c:before {
-    background: linear-gradient(135deg, #3b3b3b, #f5d76e) !important;
+    background: linear-gradient(135deg, #3b3b3b, rgba(240, 223, 160, 0.5)) !important;
 }
 
 html.theme-light .mentioned__5126c:before {
-    background: linear-gradient(135deg, #cfcfcf, #f5d76e) !important;
+    background: linear-gradient(135deg, #cfcfcf, rgba(240, 223, 160, 0.5)) !important;
 }
 
 html.theme-dark .mentioned__5126c {
-    background: linear-gradient(60deg, rgba(41, 41, 41, 0.3), rgba(245, 215, 110, 0.9)) !important;
+    background: linear-gradient(60deg, rgba(41, 41, 41, 0.3), rgba(240, 223, 160, 0.4)) !important;
 }
 
 html.theme-light .mentioned__5126c {
-    background: linear-gradient(60deg, rgba(228, 228, 228, 0.3), rgba(245, 215, 110, 0.9)) !important;
+    background: linear-gradient(60deg, rgba(228, 228, 228, 0.3), rgba(240, 223, 160, 0.4)) !important;
 }
 
 html.theme-dark .mentioned__5126c:hover {
-    background: linear-gradient(60deg, rgba(32, 32, 32, 0.5), rgba(245, 215, 110, 1)) !important;
+    background: linear-gradient(60deg, rgba(32, 32, 32, 0.5), rgba(240, 223, 160, 0.6)) !important;
 }
 
 html.theme-light .mentioned__5126c:hover {
-    background: linear-gradient(60deg, rgba(228, 228, 228, 0.5), rgba(245, 215, 110, 1)) !important;
+    background: linear-gradient(60deg, rgba(228, 228, 228, 0.5), rgba(240, 223, 160, 0.6)) !important;
 }
 
 /*user popout animation*/
